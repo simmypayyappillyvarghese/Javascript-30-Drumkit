@@ -6,6 +6,6 @@ This repository is created as a part of Javascript 30 days challenge.
 
 This Project covers:
 
-Events & Event Listeners
+Events & Event Listeners \n
 Data Attributes
 
