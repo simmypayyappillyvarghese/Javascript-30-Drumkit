@@ -10,5 +10,5 @@ Events & Event Listeners
 
 Data Attributes
 
-Audio Element
+Audio & Keyboard Input Element
 
